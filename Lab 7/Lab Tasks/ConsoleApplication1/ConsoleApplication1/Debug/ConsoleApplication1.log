@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+ConsoleApplication1.obj : error LNK2019: unresolved external symbol "public: __thiscall Team::Team(class Players const &)" (??0Team@@QAE@ABVPlayers@@@Z) referenced in function _main
+D:\University\Semester#2\OOP\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+D:\University\Semester#2\OOP\Lab 6\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(326,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\University\Semester#2\OOP\Lab 6\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(340,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\University\Semester#2\OOP\Lab 6\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(352,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\University\Semester#2\OOP\Lab 6\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(426,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\University\Semester#2\OOP\Lab 6\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(563,1): error C2084: function 'std::string Student::getDiscipline(void)' already has a body
+D:\University\Semester#2\OOP\Lab 6\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(554): message : see previous definition of 'getDiscipline'
